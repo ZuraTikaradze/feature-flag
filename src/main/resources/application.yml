@@ -1,0 +1,7 @@
+togglz:
+  console:
+    path: /custom-togglz-path
+    secured: false
+  features:
+    DISCOUNT_APPLIED:
+      enabled: false
